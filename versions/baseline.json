@@ -10176,6 +10176,10 @@
       "baseline": "1.8.0",
       "port-version": 2
     },
+    "thediscordlist-dpp": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "thermadiag-seq": {
       "baseline": "2.3",
       "port-version": 0
